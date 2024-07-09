@@ -1,0 +1,27 @@
+{
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "https://news.mdh.or.id/",
+  "start_url": "https://news.mdh.or.id/",
+  "name": "News Mdh.or.id",
+  "short_name": "MDH.or.id",
+  "description": "Berita Masjid DarulHidayah",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5VRxQNuFLluZ_jLT3gQVHepxXjDw7WGB0KhqQKbvOnSsyb4m_2tumBF-9VbXnkxQr81GH8gTJAUEpniba-c4G1XPKMm38BKjkxmvc3QNaHHfo3nk_DrkniBRJ_hLC-gckDHkw1NgUQBVD1U76qbD72GJuHrrc9dTJvC0QMRLhWGf0BzZwde2uc9i4Qklj/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3xWTLbmRDvpqfSvCkv1h9QLIug_AxMYKNKZVXtlo3d-uEPwaME9Q0_rXdy0OVIIk41g4DiFkCbJiIJK0AwXaRcFQF7Ef4uwwlzdvsHXWX3HLTTy9veVluYcwmsb0K0d4WGqtVdiY3uUOyRh6vEbh7J2BOSr0tE0BBijud-O88CZskIuj6Dqwwk-ReYrxD/s1600/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDdrpIWkMDb7LV4plWUWESeRYNyJqd9p7C_JkEaXiaPxds2-MuHadnPo-2zas-MLP10i6w-Vw4YGnVbluR29NbWN6NyeA0IqwPGYxRIQE6yEWz7G42ZBWpRj8wDSabir6auSJHJHIjFtZLb-H3Q1n62IRWcasKlRWnWKqAlr2kDT92lrx_4zhx1LK2hHE/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
