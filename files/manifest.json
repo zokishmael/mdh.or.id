@@ -1,6 +1,6 @@
 {
   "theme_color": "#e93f24",
-  "background_color": "#e93f24",
+  "background_color": "#ffffff",
   "display": "standalone",
   "scope": "https://news.mdh.or.id/",
   "start_url": "https://news.mdh.or.id/",
@@ -9,19 +9,40 @@
   "description": "Berita Masjid DarulHidayah",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5VRxQNuFLluZ_jLT3gQVHepxXjDw7WGB0KhqQKbvOnSsyb4m_2tumBF-9VbXnkxQr81GH8gTJAUEpniba-c4G1XPKMm38BKjkxmvc3QNaHHfo3nk_DrkniBRJ_hLC-gckDHkw1NgUQBVD1U76qbD72GJuHrrc9dTJvC0QMRLhWGf0BzZwde2uc9i4Qklj/s1600/icon-192x192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFvd9eR6GbcbjA9SjAJzcgpbaMIiROo32mjdZ2fXTc_lZy4bXS_wAhSj1e8m3tsuHwQOu1CrdEebC9VJslcLwGdl0kf6uX6HZUCg0Sxl4iIWLSVMQI1UA_kGSW7r7GL-PY5qKvd_md7epsi4UvrUAw1E1QNHB3D6E5-FQlKYuHWrElQ6fmhLkDlmFXXR_Q/s1600/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRPx72Mm4vtkhUK-JDIGi-Khh-GUju9oeNKvMLbVeb6lQRHixMKp8YwI9RaTVfBuQDTT6N4Buzhw5MBpAeehP0uVjZm6jmp6gw1wxAQHs0h5p0IaKrEjcGuAfJQYng2g6vmbPK-x5QhooIyyw7pyheP7dWZ8akWz15QxpV8U4QNhWjYyiKU65ZZ8BvdrWV/s1600/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh34sKB0JGnyD-tOAQ5qDKa70kZ735NQuJ6lOaSejzJ2wd7QaiA-pVDQK8a5irPIncXi821H8Evn5JqdCCihKmQVyyz0Tow11d6lHm-808M2-Y9ohXnQWkb1ntYgvGza9TRsWRbvoTxy6RI-UZyaQ1KSJDOEOzMMAzUjwevQaKRUFdS8MFruJFQbrpPIMB7/s1600/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nMWdzHRJH2MnMJ5vyLFjvqLA9LoQD1R5TzKl8EhDOmNX_ZVGLc3sz4icKKGS7VtAbMSgxvIL9l1yMthXbCMnKMDZBlW97BQHWj7AFPLQDuCr3G1ntjO3_lArt1Xh1zkoA6l30o40mibcqeNpFdu0Vijo3ggTiRw2k7r77PzJ4Qv77tB0vS_NwsB0ahqQ/s1600/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKRSfPrlxp2i_Yhbiprxh93o9Ei00twJ56td8NvC5GxM6USOY_dxC6OvK_dxs3e1FDW68kKWhqybL0a7fPleP_83p6_L67H0Yx4m1EQheh2gvYGU8rzQKewUVT-QfceaVVWG6s9OOlFf1xVLmgS7sfyUwcAaHsBcPq3E1uf6MItL6ZkcndYTRq0n0mrjCT/s1600/ms-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5L6jDVCUfVqiCxrCq-CjxLaqzukmHAlBOFfAzYxlSoKet8UWPOuuz0c-4OhjHoBddN3DBUhWMDr93Usv9v7BEoM1y8O0CK42XyjM7CxvTSiJ1pYS8EUFDP5LAb5AIEtQBMJVJxLop9_1H3zRuhdTSGkM7H-ZD-F9sJ690pVwbf0f0yCF1WElV6jSTyM3s/s1600/android-icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3xWTLbmRDvpqfSvCkv1h9QLIug_AxMYKNKZVXtlo3d-uEPwaME9Q0_rXdy0OVIIk41g4DiFkCbJiIJK0AwXaRcFQF7Ef4uwwlzdvsHXWX3HLTTy9veVluYcwmsb0K0d4WGqtVdiY3uUOyRh6vEbh7J2BOSr0tE0BBijud-O88CZskIuj6Dqwwk-ReYrxD/s1600/icon-256x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmDdrpIWkMDb7LV4plWUWESeRYNyJqd9p7C_JkEaXiaPxds2-MuHadnPo-2zas-MLP10i6w-Vw4YGnVbluR29NbWN6NyeA0IqwPGYxRIQE6yEWz7G42ZBWpRj8wDSabir6auSJHJHIjFtZLb-H3Q1n62IRWcasKlRWnWKqAlr2kDT92lrx_4zhx1LK2hHE/s1600/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "density": "4.0"
     }
   ]
 }
