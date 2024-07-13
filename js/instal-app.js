@@ -36,7 +36,7 @@ window.addEventListener('appinstalled', (event) => {
 });
 /* Only register a service worker if it's supported */
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("https://zokishmael.github.io/mdh.or.id/files/service-worker.js");
+  navigator.serviceWorker.register("https://cdn.jsdelivr.net/gh/zokishmael/mdh.or.id/files/service-worker.js");
 }
 
 /**
