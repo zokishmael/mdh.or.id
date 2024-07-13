@@ -1,6 +1,6 @@
 {
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#e93f24",
+  "background_color": "#e93f24",
   "display": "standalone",
   "scope": "https://news.mdh.or.id/",
   "start_url": "https://news.mdh.or.id/",
